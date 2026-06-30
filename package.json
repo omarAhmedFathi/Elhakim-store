@@ -1,0 +1,16 @@
+{
+  "name": "electro-store",
+  "version": "1.0.0",
+  "description": "Electro E-Commerce website with SQLite backend",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "init-db": "node db/init.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.43.4",
+    "bcryptjs": "^3.0.0",
+    "express": "^4.21.2"
+  }
+}

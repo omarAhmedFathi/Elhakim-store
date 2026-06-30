@@ -1,0 +1,19 @@
+[
+  {
+    "orderNumber": "EL-87437014-8FD7",
+    "customerName": "Omar Test",
+    "email": "test@elhakim.com",
+    "phone": "0123456789",
+    "address": "123 Test St, Cairo, Egypt",
+    "total": 150,
+    "createdAt": "2026-06-30T02:43:57.019Z",
+    "items": [
+      {
+        "product_id": 1,
+        "name": "Zara Slim Fit Cotton Shirt",
+        "price": 49,
+        "quantity": 2
+      }
+    ]
+  }
+]
