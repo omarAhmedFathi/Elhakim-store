@@ -752,3 +752,5 @@ app.get('*', (req, res, next) => {
 app.listen(port, () => {
   console.log(`Electro store server running at http://localhost:${port}`);
 });
+
+export default app;
