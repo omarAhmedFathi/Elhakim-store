@@ -1,3 +1,4 @@
+// Connected to Supabase Database
 import express from 'express';
 import { DatabaseSync } from 'node:sqlite';
 import path from 'path';
